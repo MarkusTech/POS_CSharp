@@ -1,0 +1,308 @@
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\POSales.exe.config
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\POSales.exe
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\POSales.pdb
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.Properties.Resources.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.exe
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.pdb
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.MainForm.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.Brand.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.BrandModule.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.Category.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.CategoryModule.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.Product.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.ProductModule.resources
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\MetroFramework.Design.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\MetroFramework.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.csproj.CopyComplete
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.Supplier.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.SupplierModule.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.UserAccount.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.Cashier.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.LookUpProduct.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.Qty.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.ProductStockIn.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.StockIn.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.Discount.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.Settle.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.Login.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.DailySale.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.CancelOrder.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.Void.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.ChangePassword.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.Store.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.ResetPassword.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.UserProperties.resources
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.Recept.resources
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\EnvDTE.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\stdole.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\Microsoft.MSXML.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\RdlCompile.cache
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\RdlCompile.compiled
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.POSReport.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.Adjustments.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.Record.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.Dashboard.resources
+C:\Users\acer\source\repos\POSales\POSales\obj\Debug\POSales.Alert.resources
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\POSales.exe.config
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\POSales.exe
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\POSales.pdb
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\MetroFramework.Design.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\MetroFramework.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\EnvDTE.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\stdole.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\Microsoft.MSXML.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\63907\Documents\POS\POSales\POSales\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\63907\Documents\POS\POSales\POSales\obj\Debug\POSales.csproj.AssemblyReference.cache
+C:\Users\63907\Documents\POS\POSales\POSales\obj\Debug\POSales.csproj.SuggestedBindingRedirects.cache
+C:\Users\63907\Documents\POS\POSales\POSales\obj\Debug\POSales.Adjustments.resources
+C:\Users\63907\Documents\POS\POSales\POSales\obj\Debug\POSales.Alert.resources
+C:\Users\63907\Documents\POS\POSales\POSales\obj\Debug\POSales.Brand.resources
+C:\Users\63907\Documents\POS\POSales\POSales\obj\Debug\POSales.BrandModule.resources
+C:\Users\63907\Documents\POS\POSales\POSales\obj\Debug\POSales.CancelOrder.resources
+C:\Users\63907\Documents\POS\POSales\POSales\obj\Debug\POSales.Cashier.resources
+C:\Users\63907\Documents\POS\POSales\POSales\obj\Debug\POSales.Category.resources
+C:\Users\63907\Documents\POS\POSales\POSales\obj\Debug\POSales.CategoryModule.resources
+C:\Users\63907\Documents\POS\POSales\POSales\obj\Debug\POSales.ChangePassword.resources
+C:\Users\63907\Documents\POS\POSales\POSales\obj\Debug\POSales.DailySale.resources
+C:\Users\63907\Documents\POS\POSales\POSales\obj\Debug\POSales.Dashboard.resources
+C:\Users\63907\Documents\POS\POSales\POSales\obj\Debug\POSales.Discount.resources
+C:\Users\63907\Documents\POS\POSales\POSales\obj\Debug\POSales.Login.resources
+C:\Users\63907\Documents\POS\POSales\POSales\obj\Debug\POSales.LookUpProduct.resources
+C:\Users\63907\Documents\POS\POSales\POSales\obj\Debug\POSales.MainForm.resources
+C:\Users\63907\Documents\POS\POSales\POSales\obj\Debug\POSales.POSReport.resources
+C:\Users\63907\Documents\POS\POSales\POSales\obj\Debug\POSales.Product.resources
+C:\Users\63907\Documents\POS\POSales\POSales\obj\Debug\POSales.ProductModule.resources
+C:\Users\63907\Documents\POS\POSales\POSales\obj\Debug\POSales.ProductStockIn.resources
+C:\Users\63907\Documents\POS\POSales\POSales\obj\Debug\POSales.Recept.resources
+C:\Users\63907\Documents\POS\POSales\POSales\obj\Debug\POSales.Record.resources
+C:\Users\63907\Documents\POS\POSales\POSales\obj\Debug\POSales.UserProperties.resources
+C:\Users\63907\Documents\POS\POSales\POSales\obj\Debug\POSales.Properties.Resources.resources
+C:\Users\63907\Documents\POS\POSales\POSales\obj\Debug\POSales.Qty.resources
+C:\Users\63907\Documents\POS\POSales\POSales\obj\Debug\POSales.ResetPassword.resources
+C:\Users\63907\Documents\POS\POSales\POSales\obj\Debug\POSales.Settle.resources
+C:\Users\63907\Documents\POS\POSales\POSales\obj\Debug\POSales.StockIn.resources
+C:\Users\63907\Documents\POS\POSales\POSales\obj\Debug\POSales.Store.resources
+C:\Users\63907\Documents\POS\POSales\POSales\obj\Debug\POSales.Supplier.resources
+C:\Users\63907\Documents\POS\POSales\POSales\obj\Debug\POSales.SupplierModule.resources
+C:\Users\63907\Documents\POS\POSales\POSales\obj\Debug\POSales.UserAccount.resources
+C:\Users\63907\Documents\POS\POSales\POSales\obj\Debug\POSales.Void.resources
+C:\Users\63907\Documents\POS\POSales\POSales\obj\Debug\POSales.csproj.GenerateResource.cache
+C:\Users\63907\Documents\POS\POSales\POSales\obj\Debug\POSales.csproj.CoreCompileInputs.cache
+C:\Users\63907\Documents\POS\POSales\POSales\obj\Debug\POSales.csproj.CopyComplete
+C:\Users\63907\Documents\POS\POSales\POSales\obj\Debug\POSales.exe
+C:\Users\63907\Documents\POS\POSales\POSales\obj\Debug\POSales.pdb
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\POSales.exe.config
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\POSales.exe
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\POSales.pdb
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\MetroFramework.Design.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\MetroFramework.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\MetroFramework.Fonts.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\EnvDTE.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\stdole.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\Microsoft.MSXML.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\obj\Debug\POSales.csproj.AssemblyReference.cache
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\obj\Debug\POSales.csproj.SuggestedBindingRedirects.cache
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\obj\Debug\POSales.Adjustments.resources
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\obj\Debug\POSales.Alert.resources
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\obj\Debug\POSales.Brand.resources
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\obj\Debug\POSales.BrandModule.resources
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\obj\Debug\POSales.CancelOrder.resources
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\obj\Debug\POSales.Cashier.resources
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\obj\Debug\POSales.Category.resources
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\obj\Debug\POSales.CategoryModule.resources
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\obj\Debug\POSales.ChangePassword.resources
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\obj\Debug\POSales.DailySale.resources
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\obj\Debug\POSales.Dashboard.resources
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\obj\Debug\POSales.Discount.resources
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\obj\Debug\POSales.Login.resources
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\obj\Debug\POSales.LookUpProduct.resources
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\obj\Debug\POSales.MainForm.resources
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\obj\Debug\POSales.POSReport.resources
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\obj\Debug\POSales.Product.resources
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\obj\Debug\POSales.ProductModule.resources
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\obj\Debug\POSales.ProductStockIn.resources
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\obj\Debug\POSales.Recept.resources
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\obj\Debug\POSales.Record.resources
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\obj\Debug\POSales.UserProperties.resources
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\obj\Debug\POSales.Properties.Resources.resources
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\obj\Debug\POSales.Qty.resources
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\obj\Debug\POSales.ResetPassword.resources
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\obj\Debug\POSales.Settle.resources
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\obj\Debug\POSales.StockIn.resources
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\obj\Debug\POSales.Store.resources
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\obj\Debug\POSales.Supplier.resources
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\obj\Debug\POSales.SupplierModule.resources
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\obj\Debug\POSales.UserAccount.resources
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\obj\Debug\POSales.Void.resources
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\obj\Debug\POSales.csproj.GenerateResource.cache
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\obj\Debug\POSales.csproj.CoreCompileInputs.cache
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\obj\Debug\POSales.csproj.CopyComplete
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\obj\Debug\POSales.exe
+D:\Users\ItsYou\Desktop\POS System\POS\POSales\POSales\obj\Debug\POSales.pdb
